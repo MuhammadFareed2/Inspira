@@ -1,5 +1,5 @@
-import { BatchTable } from '@/components/DataTables/BatchTable'
-import { BatchModal } from '@/components/Dialogs/BatchModal'
+import { BatchTable } from '@/components/DataTables/BatchesTable'
+import { BatchModal } from '@/components/Dialogs/BatchesModal'
 import React from 'react'
 
 const Batches = () => {

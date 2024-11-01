@@ -1,5 +1,5 @@
-import { CourseTable } from '@/components/DataTables/CourseTable'
-import { CourseDialog } from '@/components/Dialogs/CourseModal'
+import { CourseTable } from '@/components/DataTables/CoursesTable'
+import { CourseDialog } from '@/components/Dialogs/CoursesModal'
 import React from 'react'
 
 const Courses = () => {
